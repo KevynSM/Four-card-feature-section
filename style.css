@@ -78,6 +78,7 @@ header p {
         "card-d"
     ;
     row-gap: 15px;
+    padding-top: 3rem;
 }
 
 .card {    
