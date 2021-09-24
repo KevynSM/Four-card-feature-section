@@ -190,6 +190,7 @@ header p {
         ;
         justify-content: center;        
         column-gap: 30px;
+        padding-top: 0rem;
     }
 
     .card {
